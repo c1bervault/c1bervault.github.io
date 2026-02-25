@@ -5,7 +5,7 @@ categories: [Ciberseguridad,Maquina]
 tags: [dificultad_facil, Windows,  ]
 description: "Máquina Driver de Hack The Box "
 image:
-  path: /assets/img/posts/WriteUpApocalyst/driver.png
+  path: /assets/img/posts/WriteUpDriver/driver.png
   alt: "Información de Driver"
 ---
 ## Introducción
