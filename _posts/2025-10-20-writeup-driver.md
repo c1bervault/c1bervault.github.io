@@ -1,6 +1,6 @@
 ---
 title: "Resolución de la máquina Driver"
-date: 2025-10-04 20:00:00 +0100
+date: 2026-2-02 20:00:00 +0100
 categories: [Ciberseguridad,Maquina]
 tags: [dificultad_facil, Windows,  ]
 description: "Máquina Driver de Hack The Box "
@@ -24,7 +24,7 @@ En este post veremos la resolución de la maquina retirada Driver de Hack The Bo
 
      nmap -p- --open  --min-rate=5000 -sS -vvv -Pn -n -oG allPorts 10.129.4.59
 
- Los diferentes parámetros de nmap vienen explicados en el post de  [comandos basicos sobre nmap]() 
+ Los diferentes parámetros de nmap vienen explicados en el post de comandos basicos sobre nmap
 
 
 ![1771859116539](/assets/img/posts/WriteUpDriver/allPorts.png)
