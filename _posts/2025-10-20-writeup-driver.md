@@ -24,7 +24,7 @@ En este post veremos la resolución de la maquina retirada Driver de Hack The Bo
 
      nmap -p- --open  --min-rate=5000 -sS -vvv -Pn -n -oG allPorts 10.129.4.59
 
- Los diferentes parámetros de nmap vienen explicados en el post de  [comandos basicos sobre nmap](/posts/manual-nmap/) 
+ Los diferentes parámetros de nmap vienen explicados en el post de  [comandos basicos sobre nmap]() 
 
 
 ![1771859116539](/assets/img/posts/WriteUpDriver/allPorts.png)
