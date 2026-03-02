@@ -159,7 +159,7 @@ Esta vulnerabilidad fue muy peligrosa en 2021 ya que afectaba al Windows Print S
 Esta vulnerabilidad permitía que un usuario con pocos privilegios pueda instalar un driver de impresora malicioso, que el servicio Spooler lo cargue y como el Spooler corre como SYSTEM pueda ejecutar codigo como administrador.
 
 
-### Explotación de la CVE
+### 3.2 Explotación de la CVE
 
 
 Para empezar clonaremos el repositorio del script malicioso en nuestra maquina atacante con el comando:
