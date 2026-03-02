@@ -1,5 +1,5 @@
 ---
-title: "Resolución de la máquina admirer"
+title: "Resolución de la máquina admirer(NO TERMINADA)"
 date: 2025-10-04 20:00:00 +0100
 categories: [Ciberseguridad,Maquina]
 tags: [dificultad_facil, linux, fuzzing]
