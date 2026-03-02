@@ -1,6 +1,6 @@
 ---
 title: "Resolución de la máquina Poison"
-date: 2026-2-03 20:00:00 +0100
+date: 2026-3-02 20:00:00 +0100
 categories: [Ciberseguridad,Maquina]
 tags: [dificultad_medium, FreeBSD, log_poisoning,LFI]
 description: "Máquina Poison de Hack The Box "
