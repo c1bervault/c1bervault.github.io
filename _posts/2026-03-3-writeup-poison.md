@@ -5,7 +5,7 @@ categories: [Ciberseguridad,Maquina]
 tags: [dificultad_medium, FreeBSD, log_poisoning,LFI]
 description: "Máquina Poison de Hack The Box "
 image:
-  path: /assets/img/posts/WriteUpPoison/Poison.png
+  path: /assets/img/posts/WriteUpPoison/poison.png
   alt: "Información de Poison"
 ---
 ## Introducción
